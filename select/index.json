@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Nobody's Perfect",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-16T16:39:07.668928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Nobody's_Perfect_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody’s Perfect",
+      "artist": "Sheryl Crow feat. Emmylou Harris",
+      "has_synced": true,
+      "path": "select/02_Nobody’s_Perfect_Sheryl_Crow_feat._Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody's Perfect (feat. Missy Elliott)",
+      "artist": "J. Cole feat. Missy Elliott",
+      "has_synced": true,
+      "path": "select/03_Nobody's_Perfect_(feat._Missy_Elliott)_J._Cole_feat._Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nobody's Perfect (Feat. Missy Elliott)",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/04_Nobody's_Perfect_(Feat._Missy_Elliott)_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yes I Know [Nobody's Perfect]",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/05_Yes_I_Know_[Nobody's_Perfect]_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Sheryl Crow & Emmylou Harris",
+      "has_synced": true,
+      "path": "select/06_Nobody's_Perfect_Sheryl_Crow_&_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "J. Cole feat. Missy Elliott",
+      "has_synced": true,
+      "path": "select/07_Nobody's_Perfect_J._Cole_feat._Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/08_Nobody's_Perfect_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Jessie J",
+      "has_synced": true,
+      "path": "select/09_Nobody's_Perfect_Jessie_J.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/10_Nobody's_Perfect_Carole_King.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Mike + The Mechanics",
+      "has_synced": true,
+      "path": "select/11_Nobody's_Perfect_Mike_+_The_Mechanics.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Mike & The Mechanics",
+      "has_synced": true,
+      "path": "select/12_Nobody's_Perfect_Mike_&_The_Mechanics.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Mike & The Mechanics",
+      "has_synced": true,
+      "path": "select/13_Nobody's_Perfect_Mike_&_The_Mechanics.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nobody's Perfect",
+      "artist": "Hannah Montana",
+      "has_synced": true,
+      "path": "select/14_Nobody's_Perfect_Hannah_Montana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nobody's Perfect",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_Nobody's_Perfect_J.Cole.txt"
+    }
+  ]
+}
